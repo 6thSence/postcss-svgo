@@ -47,7 +47,7 @@
     "is-svg": "^1.1.1",
     "postcss": "^5.0.2",
     "postcss-value-parser": "^3.0.1",
-    "svgo": "git://github.com/holymonson/svgo.git"
+    "svgo": "git://github.com/holymonson/svgo.git#4e9194153f12230f0ccfc6323efd617384b7557a"
   },
   "ava": {
     "require": "babel-core/register"
